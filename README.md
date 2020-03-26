@@ -46,5 +46,6 @@ Estudos para o teste 70483
   - [IUnknown](https://docs.microsoft.com/pt-br/cpp/atl/iunknown?view=vs-2019)
   - [XmlSerializer](https://docs.microsoft.com/pt-br/dotnet/api/system.xml.serialization.xmlserializer?view=netframework-4.8)
   - [JsonSerializer](https://docs.microsoft.com/pt-br/dotnet/api/system.text.json.jsonserializer?view=netcore-3.1)
+  - [DataContractSerializer](https://docs.microsoft.com/pt-br/dotnet/api/system.runtime.serialization.datacontractserializer?view=netframework-4.8)
   - [GC](https://docs.microsoft.com/pt-br/dotnet/api/system.gc?view=netframework-4.8#methods)
   
