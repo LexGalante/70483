@@ -32,6 +32,7 @@ Estudos para o teste 70483
   - [Acess Modifiers](https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/keywords/access-modifiers)
   - [Inheritance](https://docs.microsoft.com/pt-br/dotnet/csharp/tutorials/inheritance)
   - [Reflection](https://docs.microsoft.com/pt-br/dotnet/api/system.reflection?view=netframework-4.8)
+  - [BindingFlags](https://docs.microsoft.com/pt-br/dotnet/api/system.reflection.bindingflags?view=netframework-4.8)
   - [Attributes](https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/concepts/attributes/)
   - [Garbage Collection](https://docs.microsoft.com/pt-br/dotnet/standard/garbage-collection/)
   - [StringBuilder](https://docs.microsoft.com/pt-br/dotnet/api/system.text.stringbuilder?view=netframework-4.8)
