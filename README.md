@@ -52,6 +52,7 @@ Estudos para o teste 70483
   - [Regex](https://docs.microsoft.com/pt-br/dotnet/api/system.text.regularexpressions.regex?view=netframework-4.8)
   - [Internal](https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/keywords/internal)
   - [System.Security](https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography?view=netframework-4.8)
+  - [System.Diagnostics](https://docs.microsoft.com/pt-br/dotnet/api/system.diagnostics?view=netframework-4.8)
   - [Hash](https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.hashalgorithm?view=netframework-4.8)
   - [StrongName](https://docs.microsoft.com/pt-br/dotnet/api/system.security.policy.strongname?view=netframework-4.8)
   - [GAC](https://docs.microsoft.com/pt-br/dotnet/framework/app-domains/gac)
